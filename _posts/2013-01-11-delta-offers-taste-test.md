@@ -3,6 +3,7 @@ layout: post
 title: "Delta Offers a Taste of Mexico on its New Business Class Menu – From/To Mexico City"
 date: 2013-08-07
 description: "Delta Air Lines (NYSE: DAL) introduced today its new Business class menu on flights to and from Mexico City."
+permalink: /news/delta-offers-a-taste-of-mexico-on-its-new-business-class-menu-to-and-from-mexico-city/
 featured: false
 image: "https://i.imgur.com/9YNNXIj.jpg"
 categories: 
