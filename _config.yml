@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # The subpath of your site, e.g. /blog
+url: "https://www.airplanefood.net" # The base hostname & protocol for your site, e.g. http://example.com
 
-title: Parsa | Portfolio Jekyll Template
+title: Airplane Food
 logo: /assets/images/logo.png # You can add own logo
 description: # Add your awesome description
-copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
+copyright: Copyright 2020 AirplaneFood.net
 # Preloader
-preloader: true # To disable preloader change value to false
+preloader: false # To disable preloader change value to false
 
 menu:
   - name: Home
@@ -47,14 +47,14 @@ author:
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
-  address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+  email: hello@airplanefood.net
+  ## phone: +90 000 333 22
+  ## address:
+  ##  city: Sydney
+  ##  street: 6 rip carl Avenue CA 90733
 
 # Contact Form
-contact-form: example@email.com
+contact-form: hello@airplanefood.net
 
 # Social links
 social:
@@ -69,9 +69,9 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-userID: 4044026246
-accessToken: 4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+userID: 
+accessToken: 
 
 #-------------------------------
 # Google Analytics
