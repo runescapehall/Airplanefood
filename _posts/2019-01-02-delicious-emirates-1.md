@@ -9,5 +9,6 @@ categories:
   - "Meals"
 ---
 
-This was the main course presented on Emirates 1 (UAE1 / EK1) leaving London Heathrow.
+This was the meal presented on Emirates 1 (UAE1 / EK1) leaving London Heathrow in Economy class seating.
 
+It contained steamed salmon alongside steamed veggies, a wheat roll, icecream with chocolate flakes, greenbeans with bacon, and a cup of coffee with a sealed container of cream.
