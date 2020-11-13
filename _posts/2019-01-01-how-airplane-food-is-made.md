@@ -2,6 +2,7 @@
 title: How Airplane Food Is Made
 layout: post
 permalink: /history.html
+image: https://i.imgur.com/xlnsLNc.jpg
 ---
 
 
