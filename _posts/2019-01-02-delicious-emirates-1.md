@@ -1,5 +1,5 @@
 ---
-title: "A Satisfying In Flight Meal on Emirates 1"
+title: "A Satisfying Meal on Emirates 1"
 layout: post
 description: "A very filling meal on a flight between Dubai and London."
 permalink: /photo/cache/onboard/aeroflot/aeroflot_w900_h675_watermark.jpg
