@@ -41,7 +41,9 @@ Never, ever, travel on an empty stomach. These two symptoms usually appear in th
 
 Becoming a walking balloon is another consequence of long flights. Therefore, in addition to wearing comfortable clothes and using the socks provided by the cabin staff, we must be attentive to our food. It is important to drink plenty of water and consume infusions that help us avoid water retention, such as horsetail. In addition, it is not good to over-salt the food we are served on board: it is not bland, it includes the salt you need.
 
-## Know your body. There are more and more passengers who, for medical, nutritional or religious reasons, need special menus. Therefore, with some advance notice, it is possible to order meals adapted to your needs. For example, Turkish Airlines offers this service on all flights (except domestic) according to the provisions of the International Air Transport Association. It also offers ready-made meals without nuts. If you have any intolerance or condition, do not forget that on a plane you do not have a large group of restaurants at your disposal: remember to order your menu.
+## Know your body & diet
+
+There are more and more passengers who, for medical, nutritional or religious reasons, need special menus. Therefore, with some advance notice, it is possible to order meals adapted to your needs. For example, Turkish Airlines offers this service on all flights (except domestic) according to the provisions of the International Air Transport Association. It also offers ready-made meals without nuts. If you have any intolerance or condition, do not forget that on a plane you do not have a large group of restaurants at your disposal: remember to order your menu.
 
 ## Trust the meals on board. 
 
